@@ -5,3 +5,5 @@ Jetzt füge ich noch mehr dazu hinzu.
 Hier ist Beispiel für git amend.
 
 Hier ist ein Beispiel für Diff (WD <-> SA).
+
+Ich füge was hinzu, dass ich Stash zeigen kann.
