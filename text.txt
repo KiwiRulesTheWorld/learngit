@@ -3,3 +3,5 @@ Hier habe ich eine Datei erstellt
 Jetzt füge ich noch mehr dazu hinzu.
 
 Hier ist Beispiel für git amend.
+
+Hier ist ein Beispiel für Diff (WD <-> SA).
