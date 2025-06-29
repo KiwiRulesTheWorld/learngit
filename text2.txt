@@ -11,3 +11,5 @@ Neue Feature 1 für Branch content-Europe
 Hier entwickle ich weiter den Master, und nicht den Background color
 
 Bearbeite, dass es eine additionale Feature gibt.
+
+Hier adde ich was, um Rebase im master zu zeigen.
