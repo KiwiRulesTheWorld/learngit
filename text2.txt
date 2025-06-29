@@ -6,7 +6,7 @@ Hier ist Beispiel für git amend.
 
 Hier ist ein Beispiel für Diff (WD <-> SA).
 
-Neue Feature 1 für Branch content-Europe
+Neue Feature 1 für Branch content-Europe. Hier adde ich einen Satz für Rebase in color-fixes branch.
 
 Hier entwickle ich weiter den Master, und nicht den Background color
 
