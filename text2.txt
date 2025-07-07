@@ -16,3 +16,4 @@ Hier adde ich was, um Rebase im master zu zeigen.
 
 Satz der Konflikt erzeugt zwischen master und branch!
 
+Adde irgendwas für remomte repository!
